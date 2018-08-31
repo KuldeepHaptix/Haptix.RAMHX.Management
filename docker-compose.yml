@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  haptix.ramhx.management:
+    image: ${DOCKER_REGISTRY}haptixramhxmanagement
+    build:
+      context: .
+      dockerfile: Haptix.RAMHX.Management\Dockerfile

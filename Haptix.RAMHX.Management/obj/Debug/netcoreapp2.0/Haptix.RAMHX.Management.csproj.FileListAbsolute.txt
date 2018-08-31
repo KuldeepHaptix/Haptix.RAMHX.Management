@@ -1,0 +1,24 @@
+G:\AspnetCore_Application\Haptix.RAMHX.Management\Haptix.RAMHX.Management\bin\Debug\netcoreapp2.0\Haptix.RAMHX.Management.deps.json
+G:\AspnetCore_Application\Haptix.RAMHX.Management\Haptix.RAMHX.Management\bin\Debug\netcoreapp2.0\Haptix.RAMHX.Management.runtimeconfig.json
+G:\AspnetCore_Application\Haptix.RAMHX.Management\Haptix.RAMHX.Management\bin\Debug\netcoreapp2.0\Haptix.RAMHX.Management.runtimeconfig.dev.json
+G:\AspnetCore_Application\Haptix.RAMHX.Management\Haptix.RAMHX.Management\bin\Debug\netcoreapp2.0\Haptix.RAMHX.Management.dll
+G:\AspnetCore_Application\Haptix.RAMHX.Management\Haptix.RAMHX.Management\bin\Debug\netcoreapp2.0\Haptix.RAMHX.Management.pdb
+G:\AspnetCore_Application\Haptix.RAMHX.Management\Haptix.RAMHX.Management\obj\Debug\netcoreapp2.0\Haptix.RAMHX.Management.csprojAssemblyReference.cache
+G:\AspnetCore_Application\Haptix.RAMHX.Management\Haptix.RAMHX.Management\obj\Debug\netcoreapp2.0\Haptix.RAMHX.Management.csproj.CoreCompileInputs.cache
+G:\AspnetCore_Application\Haptix.RAMHX.Management\Haptix.RAMHX.Management\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+G:\AspnetCore_Application\Haptix.RAMHX.Management\Haptix.RAMHX.Management\obj\Debug\netcoreapp2.0\Haptix.RAMHX.Management.AssemblyInfoInputs.cache
+G:\AspnetCore_Application\Haptix.RAMHX.Management\Haptix.RAMHX.Management\obj\Debug\netcoreapp2.0\Haptix.RAMHX.Management.AssemblyInfo.cs
+G:\AspnetCore_Application\Haptix.RAMHX.Management\Haptix.RAMHX.Management\obj\Debug\netcoreapp2.0\Haptix.RAMHX.Management.dll
+G:\AspnetCore_Application\Haptix.RAMHX.Management\Haptix.RAMHX.Management\obj\Debug\netcoreapp2.0\Haptix.RAMHX.Management.pdb
+G:\AspnetCore_Application\New folder\Haptix.RAMHX.Management\Haptix.RAMHX.Management\bin\Debug\netcoreapp2.0\Haptix.RAMHX.Management.deps.json
+G:\AspnetCore_Application\New folder\Haptix.RAMHX.Management\Haptix.RAMHX.Management\bin\Debug\netcoreapp2.0\Haptix.RAMHX.Management.runtimeconfig.json
+G:\AspnetCore_Application\New folder\Haptix.RAMHX.Management\Haptix.RAMHX.Management\bin\Debug\netcoreapp2.0\Haptix.RAMHX.Management.runtimeconfig.dev.json
+G:\AspnetCore_Application\New folder\Haptix.RAMHX.Management\Haptix.RAMHX.Management\bin\Debug\netcoreapp2.0\Haptix.RAMHX.Management.dll
+G:\AspnetCore_Application\New folder\Haptix.RAMHX.Management\Haptix.RAMHX.Management\bin\Debug\netcoreapp2.0\Haptix.RAMHX.Management.pdb
+G:\AspnetCore_Application\New folder\Haptix.RAMHX.Management\Haptix.RAMHX.Management\obj\Debug\netcoreapp2.0\Haptix.RAMHX.Management.csprojAssemblyReference.cache
+G:\AspnetCore_Application\New folder\Haptix.RAMHX.Management\Haptix.RAMHX.Management\obj\Debug\netcoreapp2.0\Haptix.RAMHX.Management.csproj.CoreCompileInputs.cache
+G:\AspnetCore_Application\New folder\Haptix.RAMHX.Management\Haptix.RAMHX.Management\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+G:\AspnetCore_Application\New folder\Haptix.RAMHX.Management\Haptix.RAMHX.Management\obj\Debug\netcoreapp2.0\Haptix.RAMHX.Management.AssemblyInfoInputs.cache
+G:\AspnetCore_Application\New folder\Haptix.RAMHX.Management\Haptix.RAMHX.Management\obj\Debug\netcoreapp2.0\Haptix.RAMHX.Management.AssemblyInfo.cs
+G:\AspnetCore_Application\New folder\Haptix.RAMHX.Management\Haptix.RAMHX.Management\obj\Debug\netcoreapp2.0\Haptix.RAMHX.Management.dll
+G:\AspnetCore_Application\New folder\Haptix.RAMHX.Management\Haptix.RAMHX.Management\obj\Debug\netcoreapp2.0\Haptix.RAMHX.Management.pdb

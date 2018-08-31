@@ -1,0 +1,2 @@
+G:\AspnetCore_Application\Haptix.RAMHX.Management\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+G:\AspnetCore_Application\New folder\Haptix.RAMHX.Management\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
