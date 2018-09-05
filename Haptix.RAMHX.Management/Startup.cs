@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Haptix.RAMHX.Management.Data;
 using Haptix.RAMHX.Management.Models;
 using Haptix.RAMHX.Management.Services;
+using Haptix.RAMHX.Management.Models.DB;
 
 namespace Haptix.RAMHX.Management
 {
@@ -32,6 +33,9 @@ namespace Haptix.RAMHX.Management
             services.AddIdentity<ApplicationUser, IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
+
+            services.AddDbContext<HAPTIX_ORG_MGRContext>(options =>
+                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             // Add application services.
             services.AddTransient<IEmailSender, EmailSender>();

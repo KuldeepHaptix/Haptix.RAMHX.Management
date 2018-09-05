@@ -6,14 +6,17 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Haptix.RAMHX.Management.Models;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
+using System.Security.Claims;
 
 namespace Haptix.RAMHX.Management.Controllers
 {
     public class HomeController : Controller
-    {   
+    {
         [Authorize]
         public IActionResult Index()
         {
+            ViewBag.Userid = User.FindFirstValue(ClaimTypes.NameIdentifier);
             return View();
         }
 

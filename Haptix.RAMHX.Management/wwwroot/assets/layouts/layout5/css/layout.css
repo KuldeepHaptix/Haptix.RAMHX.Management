@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /* Cubic Bezier Transition */
 /*--------------------------------------------------
     [PLACEHOLDER]
@@ -474,7 +474,7 @@
       left: 0;
       right: 0;
       padding: 20px 25px;
-      background: #2f373e;
+      background: #90a1af;
       transition-duration: 300ms;
       transition-property: all;
       transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1); }
